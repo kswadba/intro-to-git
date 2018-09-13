@@ -1,8 +1,10 @@
 # intro-to-git
+
 Notes taken during introduction to Git tutorial.
 
 ## Useful git commands
 
+```
 git clone <repository -name>  	Copy repository onto computer.
 git config <options>  		Change git settings.
 git add <filename> 		Add file to a commit.
@@ -12,3 +14,4 @@ git log 			Show history of commits.
 git log --oneline
 git push origin master		Push changes from local to remote.
 git status			View current state of repository.
+```
